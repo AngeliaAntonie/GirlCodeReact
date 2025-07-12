@@ -1,2 +1,3 @@
 # GirlCodeReact
-Git Practical Girl Code Word 
+Git Practical Girl Code Workshop
+
